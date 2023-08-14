@@ -1,0 +1,1 @@
+Aqui foram feito exercicios de consolidação do curso discovery da rocketseat.
